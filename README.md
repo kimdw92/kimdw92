@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kimdw92
-- 🌱 I studied signal processing and deep learning for 5G communication systems in graduate school
-- 🤔 For now, I’m interested in Machine Learning, Deep Learning and DATA SCIENCE.
-- 📫 How to reach me : anpdi00@gmail.com
+- 👋 Hi, I’m **@kimdw92**
+- 🎓 I studied signal processing & deep learning for 5G communication systems in graduate school.
+- 💡 Currently focused on **Machine Learning**, **Deep Learning**, and **Data Science**.
+- 📫 Reach out to me: anpdi00@gmail.com
 
 <!--
 **kimdw92/kimdw92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
